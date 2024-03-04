@@ -5,7 +5,7 @@ Air quality index (AQI) analysis is a crucial aspect of environmental data scien
 
 ## Description
 This project focuses on analyzing the air quality in Delhi for the month of January 2023. By gathering air quality data from various sources and following standardized methodologies, we aim to calculate the Air Quality Index (AQI) and provide insights into the overall air quality status in the region.
-
+dataset taken from here 'https://github.com/YaminiMakala/ANALYSING-AIR-QUALITY-IN-DELHI-JANUARY-2023/blob/main/delhiaqi.csv'
 ## Steps for Air Quality Index Analysis
 Below are the steps we can follow for the task of Air Quality Index Analysis:
 
